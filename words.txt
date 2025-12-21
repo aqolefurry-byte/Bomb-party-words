@@ -3345,7 +3345,6 @@ avails
 avalanche
 avalanches
 avalanching
-avantgarde
 avarice
 avaricious
 avariciousness
@@ -5272,7 +5271,6 @@ bluecollar
 blueish
 bluemoon
 blueness
-bluenile
 blueprint
 blueprints
 bluer
@@ -41505,7 +41503,6 @@ rediscovery
 rediscussed
 redisplay
 redisplayed
-redistributable
 redistribute
 redistributed
 redistributes
@@ -47330,7 +47327,6 @@ snowy
 snub
 snubbed
 snubbing
-snubnosed
 snubs
 snuff
 snuffbox
@@ -58135,5 +58131,19 @@ tetrahydrocannabinol
 buckminsterfullerenes
 hexamethylenetetramine
 coccidioidomycosis
-
-
+toxology
+toxologist
+toxologists
+paradoxologies
+paradoxology
+paradoxologists
+paradoxologist
+hui
+huis
+euphuist
+euphuisms
+euphuism
+euphuistically
+euphuize
+euphuizing
+euphuized
