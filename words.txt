@@ -36,6 +36,7 @@ abdicate
 abdicated
 abdicates
 abdicating
+zebrafishes
 abdication
 abdomen
 abdomens
