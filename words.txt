@@ -58420,7 +58420,7 @@ ambidextrousness
 pizzazz
 cumbersomenesses
 jitterbugging
-paradichlorobenzenes
+paradichlorobenzene
 dillydallying
 gluttonousnesses
 nearsightednesses
@@ -58518,3 +58518,10 @@ voodoos
 voodooists
 voodooisms
 voodooing
+sleepyhead
+togethernesses
+ruggednesses
+wawa
+taxational
+gustatory
+tither
