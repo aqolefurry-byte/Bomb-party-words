@@ -39194,7 +39194,6 @@ professes
 professing
 profession
 professional
-professionalisation
 professionalised
 professionalism
 professionally
@@ -58569,3 +58568,9 @@ bacteriochlorophyll
 bacteriochlorophylls
 phenylthiocarbamide
 phenylthiocarbamides
+kolkhozniki
+sheqel
+eisteddfodau
+qindarka
+duumvir
+rijsttafel
