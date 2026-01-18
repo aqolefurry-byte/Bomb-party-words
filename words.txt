@@ -24885,7 +24885,6 @@ hyperbole
 hyperbolic
 hyperboloid
 hyperboloids
-hypercholesterolaemia
 hypercube
 hypercubes
 hyperfine
@@ -51785,7 +51784,6 @@ threateningly
 threatens
 threats
 three
-threedimensional
 threefold
 threequarters
 threes
