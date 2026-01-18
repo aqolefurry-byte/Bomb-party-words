@@ -6488,7 +6488,6 @@ bureaucracy
 bureaucrat
 bureaucratic
 bureaucratically
-bureaucratisation
 bureaucrats
 bureaus
 bureaux
@@ -58087,14 +58086,13 @@ zulus
 countercountermeasures
 countercountermeasure
 Supercalifragilisticexpialidocious
-Antidisestablishmentarianism
+antidisestablishmentarianism
 Pseudopseudohypoparathyroidism
 Hexakosioihexekontahexaphobia
 Dichlorodiphenyltrichloroethane
 Sphenopalatineganglioneuralgia
 Electroencephalographically
 Ethylenediaminetetraacetates
-Disestablishmentarianism
 Radioimmunoelectrophoresis
 Weatherproofnesses
 floccinaucinihilipilification
