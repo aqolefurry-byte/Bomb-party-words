@@ -15313,7 +15313,6 @@ doublecrossing
 doubled
 doubledealing
 doubledecker
-doubledeckers
 doubles
 doublet
 doubletalk
@@ -22439,12 +22438,6 @@ greatcoat
 greatcoats
 greater
 greatest
-greatgrandchildren
-greatgranddaughter
-greatgrandfather
-greatgrandmother
-greatgrandmothers
-greatgrandson
 greatly
 greatness
 grecian
@@ -32061,7 +32054,6 @@ misconceived
 misconception
 misconceptions
 misconduct
-misconfiguration
 misconstrued
 miscopying
 miscount
@@ -51757,7 +51749,6 @@ thoughtfulness
 thoughtless
 thoughtlessly
 thoughtlessness
-thoughtprovoking
 thoughts
 thousand
 thousandfold
@@ -52264,11 +52255,7 @@ tones
 tonga
 tongs
 tongue
-tongueincheek
 tongues
-tonguetied
-tonguetwister
-tonguetwisters
 tonic
 tonics
 tonight
@@ -57529,7 +57516,6 @@ wolfhound
 wolfhounds
 wolfish
 wolfishly
-wolfwhistles
 wolves
 woman
 womanhood
