@@ -8470,7 +8470,6 @@ circumnavigate
 circumnavigated
 circumnavigates
 circumnavigation
-circumnavigational
 circumscribe
 circumscribed
 circumscribing
@@ -58414,6 +58413,7 @@ ultracentrifugations
 batrachophobias
 gastroenterologies
 electroencephalographer
+electroencephalographers
 adrenocorticotrophins
 glyceraldehydes
 grandmamma
@@ -58602,3 +58602,8 @@ Microspectrophotometer
 Microspectrophotometers
 Hydroxytryptamine
 Nonrepresentationalism
+antiferromagnetisms
+oystercatchers
+electrodynamometer
+ahuruhurus
+featherstitches
