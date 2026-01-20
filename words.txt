@@ -5501,9 +5501,6 @@ boo
 boobies
 booboo
 booby
-boobytrap
-boobytrapped
-boobytraps
 booed
 boohoo
 booing
@@ -30396,7 +30393,6 @@ magnetism
 magnetite
 magneto
 magnetodynamics
-magnetohydrodynamical
 magnetohydrodynamics
 magnetometer
 magnetometers
@@ -58647,3 +58643,5 @@ nonrepresentational
 togethernesses
 three-dimensionalities
 jacks-of-all-trades
+cytomegaloviruses
+spetsnaz
