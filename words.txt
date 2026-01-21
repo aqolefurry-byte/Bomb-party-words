@@ -30642,7 +30642,6 @@ maniacs
 manias
 manic
 manically
-manicdepressive
 manicure
 manicured
 manifest
