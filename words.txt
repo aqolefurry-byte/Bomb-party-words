@@ -23991,7 +23991,6 @@ highpitched
 highpoint
 highranking
 highs
-highspirited
 hight
 highway
 highwayman
@@ -51015,7 +51014,6 @@ tawny
 tax
 taxable
 taxation
-taxdeductible
 taxed
 taxes
 taxfree
