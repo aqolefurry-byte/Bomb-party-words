@@ -9763,7 +9763,6 @@ computerisation
 computerise
 computerised
 computerising
-computerliterate
 computers
 computes
 computing
@@ -29023,11 +29022,6 @@ lees
 leeward
 leeway
 left
-lefthanded
-lefthandedly
-lefthandedness
-lefthander
-lefthanders
 lefties
 leftish
 leftist
