@@ -3494,7 +3494,6 @@ babies
 baboon
 baboons
 baby
-babyface
 babyhood
 babying
 babyish
@@ -18800,7 +18799,6 @@ farmyards
 faroff
 farout
 farrago
-farreaching
 farrier
 farriers
 farrow
