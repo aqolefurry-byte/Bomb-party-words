@@ -27663,7 +27663,6 @@ jailer
 jailers
 jailing
 jails
-jakarta
 jalopy
 jam
 jamaica
