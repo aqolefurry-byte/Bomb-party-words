@@ -22143,8 +22143,6 @@ gory
 gosh
 gosling
 goslings
-goslow
-goslows
 gospel
 gospels
 gossamer
