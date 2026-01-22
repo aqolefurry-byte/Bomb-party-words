@@ -37930,7 +37930,6 @@ polemicist
 polemics
 poles
 polestar
-polevaulting
 poleward
 polewards
 police
@@ -43681,6 +43680,7 @@ roses
 rosette
 rosettes
 rosewood
+rosewoods
 rosier
 rosiest
 rosily
