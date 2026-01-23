@@ -47092,7 +47092,6 @@ smoothing
 smoothly
 smoothness
 smooths
-smoothtongued
 smote
 smother
 smothered
@@ -58139,7 +58138,6 @@ lugubriousnesses
 pakapoos
 rajas
 contemporaneousnesses
-daguerrotyped
 pinealectomized
 pinealectomizes
 piezoelectrically
